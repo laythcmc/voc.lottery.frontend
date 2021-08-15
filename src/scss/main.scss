@@ -1,0 +1,23 @@
+@import "global/reset";
+@font-face {
+  font-family: flat;
+  src: url(../assets/fonts/jf-flat.ttf);
+}
+* {
+  font-family: flat;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.eng-title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.small-text {
+  font-size: 12px;
+}
